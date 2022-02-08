@@ -8,3 +8,6 @@ This is the implementation of the paper "Emotion Intensity and its Control for E
 ## Step 3: Emovox training
 
 ## Step 4: Run-time conversion
+
+
+## Training log
