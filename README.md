@@ -1,6 +1,8 @@
 # Emovox
 This is the implementation of the paper "Emotion Intensity and its Control for Emotional Voice Conversion".
 
+![image info](./stage3_update.png)
+
 ## Step 1: Learning relative attributes
 
 ## Step 2: Emotion recognizer training
