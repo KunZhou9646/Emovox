@@ -5,6 +5,10 @@ This is the implementation of the paper "Emotion Intensity and its Control for E
 
 ## Step 1: Learning relative attributes
 
+### Extracting open-simle features
+
+### Training relative ranking function
+
 ## Step 2: Emotion recognizer training
 
 ## Step 3: Emovox training
