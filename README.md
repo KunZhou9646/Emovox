@@ -21,6 +21,10 @@ main.m
 
 ## Step 3: Emovox training
 
+### 1) Style Pre-training
+
+### 2) Emotion training
+
 ## Step 4: Run-time conversion
 
 
