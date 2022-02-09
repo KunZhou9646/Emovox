@@ -7,7 +7,15 @@ This is the implementation of the paper "Emotion Intensity and its Control for E
 
 ### 1) Extracting open-simle features
 
+```Bash
+python pre-processing.py
+```
+
 ### 2) Training relative ranking function
+
+```Matlab
+main.m
+```
 
 ## Step 2: Emotion recognizer training
 
