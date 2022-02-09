@@ -19,6 +19,10 @@ main.m
 
 ## Step 2: Emotion recognizer training
 
+```Bash
+python train_ser.py
+```
+
 ## Step 3: Emovox training
 
 ### 1) Style Pre-training
